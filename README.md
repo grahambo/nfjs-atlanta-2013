@@ -1,4 +1,4 @@
-# NFJS Atalnta 2013 
+# NFJS Atlanta 2013 
 
 **GitHub Power Tools**
 
